@@ -1,6 +1,4 @@
-# <ここにアプリ名を入力>
-
-Beloved Bikes
+# <Beloved Bikes>
 
 ## サイト概要
 
