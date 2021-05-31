@@ -1,24 +1,60 @@
-# README
+# <ここにアプリ名を入力>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Beloved Bikes
 
-Things you may want to cover:
+## サイト概要
 
-* Ruby version
+オートバイクの個人間シェアサービス
 
-* System dependencies
+### サイトテーマ
 
-* Configuration
+【オーナー】
+思い出のこもったバイクを走らせて長く維持する
+【ユーザー】
+普段のレンタルにはない、いぶし銀なカスタマイズ車に乗れる
 
-* Database creation
+### テーマを選んだ理由
 
-* Database initialization
+自分が所持しているバイクが最近乗る頻度が少なくなったせいで故障してしまった。
+同じようなことはバイク乗りのあるあるで周りの友人の内でも多い
+かといって思い出の詰まった愛車を手放すような真似はできない、
+たまには乗って青春を思い出したい！という方は多いはず。
+バイクを現役で維持するには動かすことが一番なので、誰かに乗ってもらえるような仕組みを作りたいと思った。
 
-* How to run the test suite
+### ターゲットユーザ
 
-* Services (job queues, cache servers, search engines, etc.)
+【オーナー】
+最近バイクに乗る機会が減ってきて手放すかどうか悩んでいる人（３０代〜男性中心）
+【ユーザー】
+新しいバイク購入を検討している or 他のバイク乗りのこだわりバイクを楽しみたい人（男性中心）
 
-* Deployment instructions
+### 主な利用シーン
 
-* ...
+【オーナー】
+・最近乗らなくなってしまったバイクを出品
+・信頼できるユーザーを評価
+【ユーザー】
+・ちょっと変わった少人数旅行を楽しみたい時に
+・バイクの乗り換えに興味があり、他のバイク乗りのツーリング仕様や乗り心地に興味がある場合に
+・昔バイクに乗っていて今は手放してしまったが久しぶりに風になりたい時に
+
+## 設計書
+
+これから
+
+## チャレンジ要素一覧
+
+https://docs.google.com/spreadsheets/d/1Il6RXS7MLiayBDBoY7DQRGKk82_PDFGQTAWmgp4-eZQ/edit#gid=0
+
+## 開発環境
+
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JS ライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
+
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名と URL を明記してください。
+- 使用しない場合は、使用素材の項目を README から削除してください。
